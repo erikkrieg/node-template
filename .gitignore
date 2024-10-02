@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+# IDE
+.idea/
+.vscode/
+
+# Nix dev shell
+.direnv/
+
+node_modles/
+

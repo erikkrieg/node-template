@@ -1,18 +1,18 @@
-# Go Template
+# Node Template
 
-Template for Nix-based Go projects
+Template for Nix-based Node projects
 
 ## Setup
 
 ### Nix (required)
 
-Nix is used as a package manager for this project and supports building binaries as well as configuring a [development environment](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-develop.html?highlight=nix%20develop#examples). This development environment will include the version of Go specified by the project as well as any additional tooling used by the project.
+Nix is used as a package manager for this project and supports building binaries as well as configuring a [development environment](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-develop.html?highlight=nix%20develop#examples). This development environment will include the version of Node specified by the project as well as any additional tooling used by the project.
 
 Install Nix:
 
 - [Standard installation](https://nixos.org/download)
 - [A community installer](https://github.com/DeterminateSystems/nix-installer)
-  - Promises more reliable installations for MacOS
+  - Promises more reliable installations for macOS
 
 ### Direnv (recommended)
 

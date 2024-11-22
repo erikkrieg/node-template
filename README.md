@@ -2,6 +2,12 @@
 
 Template for Nix-based Node projects
 
+**Quick start:**
+
+```sh
+gh repo create -p github.com/erikkrieg/node-template --private --clone $REPO_NAME
+```
+
 ## Setup
 
 ### Nix (required)

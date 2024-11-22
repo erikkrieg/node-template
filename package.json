@@ -1,5 +1,6 @@
 {
   "name": "node-template",
+  "type": "module",
   "version": "1.0.0",
   "description": "Template for Nix-based Node projects",
   "main": "index.js",
